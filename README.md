@@ -2,6 +2,10 @@
 
 Esse é o repositório com o JSON-server feito para a aplicação da hamburgueria.
 
+# Base URL
+
+`https://json-server-hamburgueria-api.herokuapp.com/`
+
 # Endpoints
 
 ## Products
