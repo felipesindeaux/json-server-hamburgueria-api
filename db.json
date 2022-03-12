@@ -11,6 +11,12 @@
       "password": "$2a$10$H..dJSPGUgPdfE1ilEKlluhgIwAW9FT.ho4VJ5D72IXzr5H7AYcTG",
       "name": "Felipe",
       "id": 2
+    },
+    {
+      "email": "felipe@exemplo.com",
+      "password": "$2a$10$QaMIEfA3xAeYrTMNjg5bqOR7EqG91K6IGHBX1kPrqaVWT0yvgsbqK",
+      "name": "Felipe",
+      "id": 3
     }
   ],
   "products": [
